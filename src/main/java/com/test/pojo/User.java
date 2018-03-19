@@ -13,8 +13,6 @@ public class User {
         this.userName = userName;
     }
 
-
-
     public Integer getUserId() {
         return userId;
     }
